@@ -1,0 +1,27 @@
+{
+  "name": "instalacjajs-hint",
+  "version": "1.0.0",
+  "description": "instalacjajs-hint",
+  "main": "gruntfile.js",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "kodilla-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asia-wasilewska/InstalacjaJS-hint.git"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Asia Wasilewska",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asia-wasilewska/InstalacjaJS-hint/issues"
+  },
+  "homepage": "https://github.com/asia-wasilewska/InstalacjaJS-hint#readme"
+}
